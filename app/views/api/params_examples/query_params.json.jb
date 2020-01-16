@@ -1,0 +1,4 @@
+{
+  message: @my_name,
+  message_2: @new_message
+}
